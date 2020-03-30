@@ -1,0 +1,883 @@
+fileFormatVersion: 2
+guid: dd8b4428484a242478dd6785c8817fcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7299626998849813268
+    second: Male chef sprite sheet_0
+  - first:
+      213: 367956351775932380
+    second: Male chef sprite sheet_1
+  - first:
+      213: -8768462270398238534
+    second: Male chef sprite sheet_2
+  - first:
+      213: 5967835825447125161
+    second: Male chef sprite sheet_3
+  - first:
+      213: -8377646900516581545
+    second: Male chef sprite sheet_4
+  - first:
+      213: 7391301225606733555
+    second: Male chef sprite sheet_5
+  - first:
+      213: 6682922695630505375
+    second: Male chef sprite sheet_6
+  - first:
+      213: -735848863411193361
+    second: Male chef sprite sheet_7
+  - first:
+      213: -987154785999491368
+    second: Male chef sprite sheet_8
+  - first:
+      213: 2762430529238862883
+    second: Male chef sprite sheet_9
+  - first:
+      213: -249312185175993306
+    second: Male chef sprite sheet_10
+  - first:
+      213: 7587725681735598910
+    second: Male chef sprite sheet_11
+  - first:
+      213: 1782210959339959760
+    second: Male chef sprite sheet_12
+  - first:
+      213: -7707615432465198239
+    second: Male chef sprite sheet_13
+  - first:
+      213: -420025459728622005
+    second: Male chef sprite sheet_14
+  - first:
+      213: -4058939882929144313
+    second: Male chef sprite sheet_15
+  - first:
+      213: -8153571357305851082
+    second: Male chef sprite sheet_16
+  - first:
+      213: 8204045197128372996
+    second: Male chef sprite sheet_17
+  - first:
+      213: -7384244069829679713
+    second: Male chef sprite sheet_18
+  - first:
+      213: 731753128280406223
+    second: Male chef sprite sheet_19
+  - first:
+      213: 9136798486724556974
+    second: Male chef sprite sheet_20
+  - first:
+      213: -4495865158384491421
+    second: Male chef sprite sheet_21
+  - first:
+      213: 5709821917149586768
+    second: Male chef sprite sheet_22
+  - first:
+      213: -1603364066858657066
+    second: Male chef sprite sheet_23
+  - first:
+      213: 6587448250659528485
+    second: Male chef sprite sheet_24
+  - first:
+      213: -4469190579882325702
+    second: Male chef sprite sheet_25
+  - first:
+      213: -696381601257284761
+    second: Male chef sprite sheet_26
+  - first:
+      213: -7633044785261771661
+    second: Male chef sprite sheet_27
+  - first:
+      213: 968052044131351177
+    second: Male chef sprite sheet_28
+  - first:
+      213: -5963563715549569299
+    second: Male chef sprite sheet_29
+  - first:
+      213: -2543123494079532694
+    second: Male chef sprite sheet_30
+  - first:
+      213: 2962101826921485597
+    second: Male chef sprite sheet_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Male chef sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 407
+        width: 34
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662cc3ac39ac5814cbe1da6a45aff381
+      internalID: -7299626998849813268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 407
+        width: 33
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22150d0585067a44fa6061c6aadbaf34
+      internalID: 367956351775932380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 407
+        width: 33
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061b1dbd23b1153458f4ad1920ea4058
+      internalID: -8768462270398238534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 407
+        width: 33
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b94a051498e28409c00de1419c6d74
+      internalID: 5967835825447125161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 407
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5069c40fd991a4d8343f8cf7af16a8
+      internalID: -8377646900516581545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 407
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e436ed45d17500f42be5bf8377411fc4
+      internalID: 7391301225606733555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 407
+        width: 37
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2ff0cc37dc3d24fbaff92473b08ad6
+      internalID: 6682922695630505375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 448
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cb233330af1ea499899575cfc07a2c
+      internalID: -735848863411193361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 448
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccf36fe8385fb04984f03d3471cdd9d
+      internalID: -987154785999491368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 448
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0176d14889ecdb840a3c0f586f2161d5
+      internalID: 2762430529238862883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 305
+        width: 36
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dc11d7017b5334f8f1db07c60603b1
+      internalID: -249312185175993306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 305
+        width: 37
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cadcac3654dc3541b2897c27865b707
+      internalID: 7587725681735598910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 342
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5248f37c9e8c7408b65d2fde6b2a34
+      internalID: 1782210959339959760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 342
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7c8ecf2f34f67468c9bf36b252b159
+      internalID: -7707615432465198239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 185
+        width: 37
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d7dc24b6ed703418452a5b4a2f48a5
+      internalID: -420025459728622005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 184
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7844d121c4a00f4f9604b19b9e35698
+      internalID: -4058939882929144313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 185
+        width: 37
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b0504216b074e4eb17eedf3bced84e
+      internalID: -8153571357305851082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 186
+        width: 37
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90a999340b03424bbb0b7dad68bc27b
+      internalID: 8204045197128372996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 196
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f48b514ebe602546b7ec7a1d4a11bf2
+      internalID: -7384244069829679713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 202
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fc134f1ba2e8f41982c9002dfada6b
+      internalID: 731753128280406223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 214
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375c329f354190a4b81e040ab188c796
+      internalID: 9136798486724556974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 202
+        width: 36
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52c83a8a4e9cb442bbd0d51086c142b
+      internalID: -4495865158384491421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 199
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8e9e67bce4e4b49af9738899665cbd
+      internalID: 5709821917149586768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 192
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbdb146842f8b043963f832e6020417
+      internalID: -1603364066858657066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 184
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c8202ce7db5ce468848ccdaff18636
+      internalID: 6587448250659528485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 165
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb1ba81cdb170140bd596d68eb7ccdb
+      internalID: -4469190579882325702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 159
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212628edeefe91647abc66705d1de438
+      internalID: -696381601257284761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 37
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0d3e38169b4924784c7683a703e52b
+      internalID: -7633044785261771661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 42
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49699c3913792814a901fd7478d00756
+      internalID: 968052044131351177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 65
+        width: 42
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56678edfbd777c34285b57f5e568710e
+      internalID: -5963563715549569299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 103
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8d657485101514bba69e4048366da2
+      internalID: -2543123494079532694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male chef sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 103
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e16b6018a2bb94895927456e442aab
+      internalID: 2962101826921485597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: 6a10e45edbb11514ea3d238e61c28073
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4462482038685460763
+    second: NEWIdle_throw_jump_run_0
+  - first:
+      213: -2377995124169120761
+    second: NEWIdle_throw_jump_run_1
+  - first:
+      213: 2866727034465989848
+    second: NEWIdle_throw_jump_run_2
+  - first:
+      213: -6047988387853845554
+    second: NEWIdle_throw_jump_run_3
+  - first:
+      213: 4192150765308785610
+    second: NEWIdle_throw_jump_run_4
+  - first:
+      213: -5036108848122434821
+    second: NEWIdle_throw_jump_run_5
+  - first:
+      213: 5417618994252631098
+    second: NEWIdle_throw_jump_run_6
+  - first:
+      213: -6414621257057617448
+    second: NEWIdle_throw_jump_run_7
+  - first:
+      213: 4677574182287267585
+    second: NEWIdle_throw_jump_run_8
+  - first:
+      213: -5019130559454943983
+    second: NEWIdle_throw_jump_run_9
+  - first:
+      213: 222837104997231751
+    second: NEWIdle_throw_jump_run_10
+  - first:
+      213: -230385326627123924
+    second: NEWIdle_throw_jump_run_11
+  - first:
+      213: 2264817422279926426
+    second: NEWIdle_throw_jump_run_12
+  - first:
+      213: -6598159824252704214
+    second: NEWIdle_throw_jump_run_13
+  - first:
+      213: 6289093984197438534
+    second: NEWIdle_throw_jump_run_14
+  - first:
+      213: 8548296537845257610
+    second: NEWIdle_throw_jump_run_15
+  - first:
+      213: 4656676379405375552
+    second: NEWIdle_throw_jump_run_16
+  - first:
+      213: 6618367408349583593
+    second: NEWIdle_throw_jump_run_17
+  - first:
+      213: 5544570550529055977
+    second: NEWIdle_throw_jump_run_18
+  - first:
+      213: -8465004414528345373
+    second: NEWIdle_throw_jump_run_19
+  - first:
+      213: -1367038421571645525
+    second: NEWIdle_throw_jump_run_20
+  - first:
+      213: -4894676435741470773
+    second: NEWIdle_throw_jump_run_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3069eeebaf4f3084280a666ea2fd74e9
+      internalID: 4462482038685460763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 312
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739cb0a5b2dc8404ea5035ee7c85c19e
+      internalID: -2377995124169120761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 312
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e95140a7257a324ea311621def68a45
+      internalID: 2866727034465989848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4233b7ca5323077468beddab1d40d690
+      internalID: -6047988387853845554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 234
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcdb15dae83e8f4d8051d427f221881
+      internalID: 4192150765308785610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 234
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736c67387269cb5458cbcb718339eac1
+      internalID: -5036108848122434821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 234
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633c92b5d41699e45bb10c3b8b9c0e5d
+      internalID: 5417618994252631098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d606c9fbd8bc147b07b3b114724922
+      internalID: -6414621257057617448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 156
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f621e1e003050ae4d97502852a6f53eb
+      internalID: 4677574182287267585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 156
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c10f32dc703ae459fce0aff23b36b4
+      internalID: -5019130559454943983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 156
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb9418e7d399114e9fe99a16811b5ba
+      internalID: 222837104997231751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d08bc1a776fab42bcdcc17a4dd8afe
+      internalID: -230385326627123924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 78
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ff7f4205bccbe409ed9deaa5fc6c82
+      internalID: 2264817422279926426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 78
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f2d5a88d796254e800efbc6128ef5b
+      internalID: -6598159824252704214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_14
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 78
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec439c3af9efb2f40a70385ab5d62c18
+      internalID: 6289093984197438534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_15
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 78
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c6dcce404ac1a4495af01323e4f688
+      internalID: 8548296537845257610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 78
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fe89ab533dd1e4e9d12bf026287a9d
+      internalID: 4656676379405375552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7bd676c3102b34e8bbc9e8aabbe768
+      internalID: 6618367408349583593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_18
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716969b87efd7bf4cb1cdefc98976e7e
+      internalID: 5544570550529055977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb097859ba5f7a429000726b025cef7
+      internalID: -8465004414528345373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3014fc11fa96da74c9d070ac6df353ae
+      internalID: -1367038421571645525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWIdle_throw_jump_run_21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec139bcc3000c1409d2de4c3a3f2159
+      internalID: -4894676435741470773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
