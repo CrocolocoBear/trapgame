@@ -1,2 +1,2 @@
 # trapgame
-Trap Trap Trap for group 2
+Ready Set Rumble for group 2
