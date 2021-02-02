@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 7337e11bda052aa4397e7ac0bba1a97d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9012814604149798068
+    second: bookopeninganim_0
+  - first:
+      213: 9024078273179134069
+    second: bookopeninganim_1
+  - first:
+      213: -3525562401858529409
+    second: bookopeninganim_2
+  - first:
+      213: 5722291370870594302
+    second: bookopeninganim_3
+  - first:
+      213: -6147983319208116848
+    second: bookopeninganim_4
+  - first:
+      213: 8743498761070613893
+    second: bookopeninganim_5
+  - first:
+      213: -5647660312896304492
+    second: bookopeninganim_6
+  - first:
+      213: 7948863899133800695
+    second: bookopeninganim_7
+  - first:
+      213: -5443271991965221739
+    second: bookopeninganim_8
+  - first:
+      213: 3424564287030052179
+    second: bookopeninganim_9
+  - first:
+      213: -3417669951809510386
+    second: bookopeninganim_10
+  - first:
+      213: -3238744328805507541
+    second: bookopeninganim_11
+  - first:
+      213: -1996285246571572178
+    second: bookopeninganim_12
+  - first:
+      213: 2733147717732961044
+    second: bookopeninganim_13
+  - first:
+      213: 3413486677328578647
+    second: bookopeninganim_14
+  - first:
+      213: -6312830334427334263
+    second: bookopeninganim_15
+  - first:
+      213: -7358416268930502729
+    second: bookopeninganim_16
+  - first:
+      213: 6261610966374575179
+    second: bookopeninganim_17
+  - first:
+      213: 1825374428088159575
+    second: bookopeninganim_18
+  - first:
+      213: 7012687149188025263
+    second: bookopeninganim_19
+  - first:
+      213: -2137404442090434001
+    second: bookopeninganim_20
+  - first:
+      213: -6598366339565792817
+    second: bookopeninganim_21
+  - first:
+      213: -8050167274229254759
+    second: bookopeninganim_22
+  - first:
+      213: 3164347116409456302
+    second: bookopeninganim_23
+  - first:
+      213: 119118378523153210
+    second: bookopeninganim_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bookopeninganim_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6545
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532f0abc49864ac45b2dfeb3afb806f2
+      internalID: 9012814604149798068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_1
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 6545
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318df9eebc4534a4594960f911233235
+      internalID: 9024078273179134069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_2
+      rect:
+        serializedVersion: 2
+        x: 3865
+        y: 6545
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3d26e8413a2314185ecb2dbdf72f1b
+      internalID: -3525562401858529409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_3
+      rect:
+        serializedVersion: 2
+        x: 5795
+        y: 6545
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3886194f536fbca46bc954b89cf2eb8d
+      internalID: 5722291370870594302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5455
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95734e665dd8937489a4d0576f2d70c4
+      internalID: -6147983319208116848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_5
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 5455
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de60fba5c8826746bc9b9d0e32a2d69
+      internalID: 8743498761070613893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_6
+      rect:
+        serializedVersion: 2
+        x: 3865
+        y: 5455
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b591741f7a74c204785d076e10449aca
+      internalID: -5647660312896304492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_7
+      rect:
+        serializedVersion: 2
+        x: 5795
+        y: 5455
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5c4883bcd9d3244a70256bf272aff8
+      internalID: 7948863899133800695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4365
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a94cedd76b1af94a8038278ed30d4b8
+      internalID: -5443271991965221739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_9
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 4365
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e418966212f7742a6259fc68752e4c
+      internalID: 3424564287030052179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_10
+      rect:
+        serializedVersion: 2
+        x: 3865
+        y: 4365
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e58d37c50f62d24cbbacd3f04469fea
+      internalID: -3417669951809510386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_11
+      rect:
+        serializedVersion: 2
+        x: 5795
+        y: 4365
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9dc3fbf12306f4ea4c10bb71c4a43c
+      internalID: -3238744328805507541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3275
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630f4e1ac9ebf61418cf0cf0d24038bd
+      internalID: -1996285246571572178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_13
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 3275
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa1bf9ef3b939b4cadf822e28ad19f3
+      internalID: 2733147717732961044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_14
+      rect:
+        serializedVersion: 2
+        x: 3865
+        y: 3275
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457774a4b8e094f4ab10eb7c46746234
+      internalID: 3413486677328578647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_15
+      rect:
+        serializedVersion: 2
+        x: 5795
+        y: 3275
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1607c2cde2b30478c76653fa912798
+      internalID: -6312830334427334263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2185
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfa6352508a72b4b9861c19ea5d15b4
+      internalID: -7358416268930502729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_17
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 2185
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dff0f49c0017842be72da1bdaf9296
+      internalID: 6261610966374575179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_18
+      rect:
+        serializedVersion: 2
+        x: 3865
+        y: 2185
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28795762a67076c4e9cea8437cb71917
+      internalID: 1825374428088159575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_19
+      rect:
+        serializedVersion: 2
+        x: 5795
+        y: 2185
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aa8f356a09cbd418428cb5ae9f1787
+      internalID: 7012687149188025263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1095
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd346d2005362949a85e7b7dcfa5dfd
+      internalID: -2137404442090434001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_21
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1095
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb75bef783b2a2a469283bbbc74142ee
+      internalID: -6598366339565792817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_22
+      rect:
+        serializedVersion: 2
+        x: 3865
+        y: 1095
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f04751cec65f64d850b2398143f856
+      internalID: -8050167274229254759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_23
+      rect:
+        serializedVersion: 2
+        x: 5795
+        y: 1095
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b98628b58702b847b1066a410d54660
+      internalID: 3164347116409456302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bookopeninganim_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 1920
+        height: 1080
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a17af3543e6ce40967c56beb983742
+      internalID: 119118378523153210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

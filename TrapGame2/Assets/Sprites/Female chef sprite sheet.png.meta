@@ -1,0 +1,883 @@
+fileFormatVersion: 2
+guid: 2f0e7bdda614a384cb17112c738ec026
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6275894840302597937
+    second: Female chef sprite sheet_0
+  - first:
+      213: 4445262406667201770
+    second: Female chef sprite sheet_1
+  - first:
+      213: -317704772754621000
+    second: Female chef sprite sheet_2
+  - first:
+      213: 7160379086891047130
+    second: Female chef sprite sheet_3
+  - first:
+      213: 2641156738260397640
+    second: Female chef sprite sheet_4
+  - first:
+      213: 7470623830762702943
+    second: Female chef sprite sheet_5
+  - first:
+      213: -298843377640695131
+    second: Female chef sprite sheet_6
+  - first:
+      213: -3229487360898846412
+    second: Female chef sprite sheet_7
+  - first:
+      213: 6217848970829415981
+    second: Female chef sprite sheet_8
+  - first:
+      213: -4793557956211485447
+    second: Female chef sprite sheet_9
+  - first:
+      213: 379465921836031182
+    second: Female chef sprite sheet_10
+  - first:
+      213: 2311422927520393330
+    second: Female chef sprite sheet_11
+  - first:
+      213: 8091439560844300850
+    second: Female chef sprite sheet_12
+  - first:
+      213: 1100692609589024923
+    second: Female chef sprite sheet_13
+  - first:
+      213: -1817484588576236497
+    second: Female chef sprite sheet_14
+  - first:
+      213: 4933031432063669742
+    second: Female chef sprite sheet_15
+  - first:
+      213: -7129927930219050849
+    second: Female chef sprite sheet_16
+  - first:
+      213: 2431280362556033453
+    second: Female chef sprite sheet_17
+  - first:
+      213: 2653897153827945653
+    second: Female chef sprite sheet_18
+  - first:
+      213: -2940063409680055776
+    second: Female chef sprite sheet_19
+  - first:
+      213: -2766639915252784435
+    second: Female chef sprite sheet_20
+  - first:
+      213: 5791135124764092854
+    second: Female chef sprite sheet_21
+  - first:
+      213: 7288521279626925402
+    second: Female chef sprite sheet_22
+  - first:
+      213: -6381128238960694822
+    second: Female chef sprite sheet_23
+  - first:
+      213: 8680006474356521579
+    second: Female chef sprite sheet_24
+  - first:
+      213: 4234989917643939757
+    second: Female chef sprite sheet_25
+  - first:
+      213: -9107721571454838712
+    second: Female chef sprite sheet_26
+  - first:
+      213: 8833734357388293326
+    second: Female chef sprite sheet_27
+  - first:
+      213: -8808290817335775187
+    second: Female chef sprite sheet_28
+  - first:
+      213: -3809301761363837554
+    second: Female chef sprite sheet_29
+  - first:
+      213: -5961067020032489702
+    second: Female chef sprite sheet_30
+  - first:
+      213: -1104653287361841443
+    second: Female chef sprite sheet_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female chef sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 407
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9b9a14a63474b49a0805d5ce9c4e95
+      internalID: -6275894840302597937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 406
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df371b8b90b99924497cab9b0b4d4ca5
+      internalID: 4445262406667201770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 406
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f357759b8086d9498c5cfc65e8d50ea
+      internalID: -317704772754621000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 406
+        width: 37
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252e13fd884d3e848a37bbd8fd7a532c
+      internalID: 7160379086891047130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 407
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541aa58ab6c89b24faf4f546d29a7835
+      internalID: 2641156738260397640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 406
+        width: 38
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365ebae11249178459f9168f4baed25f
+      internalID: 7470623830762702943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 407
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32f0fce5393f11458cb49c448439fd4
+      internalID: -298843377640695131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 448
+        width: 11
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277f30f951efb2f4f92b71c1826ea95c
+      internalID: -3229487360898846412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 448
+        width: 12
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7aa5e50118b624bb3849249db14730
+      internalID: 6217848970829415981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 448
+        width: 7
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75440bd009bb0ea42a154ffd7ea05003
+      internalID: -4793557956211485447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 305
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bcc726401c8cb49a1e9d5bccdc9abb
+      internalID: 379465921836031182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 305
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803b72520c98bb84b9e95d03158a4643
+      internalID: 2311422927520393330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 342
+        width: 11
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48426a771a8f6de4e8f347c260b41e8b
+      internalID: 8091439560844300850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 342
+        width: 17
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55310b2a71932644b048405760b11b0
+      internalID: 1100692609589024923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 185
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209106cd424e56e4f995852aa0780a14
+      internalID: -1817484588576236497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 184
+        width: 38
+        height: 84
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0605cc6c618bfb748ada7eeea61f4b07
+      internalID: 4933031432063669742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 185
+        width: 38
+        height: 92
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a2a36352940c64c88faa22bf9c1e3c
+      internalID: -7129927930219050849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 186
+        width: 38
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c799dc0810b62447834430c4cac9b23
+      internalID: 2431280362556033453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 196
+        width: 38
+        height: 84
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eebcea57a971de48b93a724d3d50578
+      internalID: 2653897153827945653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 202
+        width: 38
+        height: 84
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73999a820043f8e478204ab387df5699
+      internalID: -2940063409680055776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 214
+        width: 38
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa16ade39ccea7448c2ac912f02a3f4
+      internalID: -2766639915252784435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 202
+        width: 38
+        height: 84
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d783f430d7c254d81f8b9ceb6e5cda
+      internalID: 5791135124764092854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 199
+        width: 38
+        height: 84
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72eaeb9c676a4dc4eb635ab0008f254a
+      internalID: 7288521279626925402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 192
+        width: 38
+        height: 92
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a07095d72687b646878b79a393ca242
+      internalID: -6381128238960694822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 184
+        width: 38
+        height: 92
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b41f4d11b3aca4b9ef0873f610ffff
+      internalID: 8680006474356521579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 165
+        width: 10
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3519e5be0819d4483b4a239d27975d
+      internalID: 4234989917643939757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 159
+        width: 30
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c6602413f38914db9c3aa686673d1d
+      internalID: -9107721571454838712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d4081032537c94bbb8ed6e10bff07e
+      internalID: 8833734357388293326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 43
+        height: 92
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bc399a47dec8644a1c5614a558d87b
+      internalID: -8808290817335775187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 65
+        width: 42
+        height: 92
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc60cfc5c0205944bc3c7bc86541fa1
+      internalID: -3809301761363837554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 103
+        width: 9
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911597af64379d540b175cc83b43651e
+      internalID: -5961067020032489702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female chef sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 103
+        width: 28
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbbff31cd58f9c48ab79ab29562e444
+      internalID: -1104653287361841443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
